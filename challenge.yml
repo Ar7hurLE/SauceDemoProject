@@ -1,0 +1,5 @@
+challenge:
+  name: "SauceDemo E2E Automation"
+  tech_stack: "Playwright (JavaScript)"
+  pattern: "Page Object Model (POM)"
+  scenarios_implemented: 5
