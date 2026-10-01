@@ -12,7 +12,7 @@ Este projeto contém uma suíte de testes automatizados End-to-End (E2E) para a 
 - [Node.js](https://www.nodejs.org)
 
 ### 1. Extrair o Projeto
-Extraia o ficheiro `.zip` fornecido para uma pasta à sua escolha.
+Extraia o ficheiro `.zip` fornecido ou clone o projeto em uma pasta de sua escolha.
 
 ### 2. Instalar as Dependências do Node.js
 Abra o terminal na pasta raiz do projeto e execute o comando abaixo para descarregar as bibliotecas necessárias declaradas no `package.json`:
